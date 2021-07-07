@@ -9,7 +9,7 @@ body {
   background: url(../images/backgrounds/architecture.jpg) center no-repeat;
   background-size: cover;
   background-attachment: fixed;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: Georgia, serif;
   font-size: 100%;
 }
 
@@ -21,7 +21,7 @@ body {
 
 #content {
   padding: 20px;
-  background: rgba(255,255,255,.85);
+  background: rgba(248, 197, 121, 0.85);
 }
 
 h1, h2 {
@@ -37,12 +37,14 @@ h1 {
 h2 {
   font-size: 1.5em;
   margin-top: .5em;
+  color: orange;
 }
 
 h3 {
   font-family: 'Gabriela', serif;
   font-size: 1.5em;
   margin-top: .5em;
+  color:rebeccapurple;
 }
 
 img {
